@@ -1,0 +1,32 @@
+[
+  {
+    "name": "a",
+    "path": "/a",
+    "component": "/Users/user/vue/monolisa/pages/a.vue",
+    "chunkName": "pages/a"
+  },
+  {
+    "name": "b",
+    "path": "/b",
+    "component": "/Users/user/vue/monolisa/pages/b.vue",
+    "chunkName": "pages/b"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/Users/user/vue/monolisa/pages/faq.vue",
+    "chunkName": "pages/faq"
+  },
+  {
+    "name": "token",
+    "path": "/token",
+    "component": "/Users/user/vue/monolisa/pages/token/index.vue",
+    "chunkName": "pages/token/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/user/vue/monolisa/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
